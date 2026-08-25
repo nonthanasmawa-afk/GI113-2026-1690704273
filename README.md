@@ -10,7 +10,7 @@ Repository ส่วนตัวของวิชา **GI113 Computer Programmi
 ชื่อ-นามสกุล: นนทณัสม์ มาวัชระ
 Section: 129D
 รหัสนักศึกษา: 1690704273
-เลขที่: N-A
+เลขที่: N/A
 ```
 
 ## กติกาการตั้งชื่อ (Naming Convention)
