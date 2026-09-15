@@ -1,6 +1,6 @@
 /*
  * Student ID : 1690704273
- * Name       : Lab02
+ * Name       : LAB05
  * Section    : 129D
  * No.        : 17
  * Course     : GI113 Computer Programming (GI)
